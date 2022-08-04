@@ -1,5 +1,3 @@
-![snake animation](https://github.com/Jefroll/Jefroll/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **Jefroll/Jefroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefroll&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefroll&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefroll&show_icons=true&&theme=radical)](https://github.com/Jefroll/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefroll&&theme=radical)](https://github.com/Jefroll/github-readme-stats)
+
+
+![snake animation](https://github.com/Jefroll/Jefroll/blob/output/github-contribution-grid-snake.svg)
